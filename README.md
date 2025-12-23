@@ -144,3 +144,30 @@ Bu proje ile amaçlanan:
 - SQL’i ezberlemeden, **mantığını anlayarak öğrenmek**
 - Gerçek hayatta kullanılan **ilişkisel veri senaryolarını** kavramak
 - **Junior → Mid** seviyesinde sağlam bir SQL altyapısı oluşturmak
+
+---
+
+# 📊 MySQLQueriesFundamentals Project
+
+This repository contains query examples and practical scenarios prepared during the process of learning **SQL (Structured Query Language)** using **MySQL**, progressing from beginner to advanced level.  
+The project was created to **understand relational database logic**, **work effectively with data**, and **learn SQL structures used in real-world projects**.
+
+---
+
+## 📁 Project Structure
+
+The project consists of `.sql` files prepared to be run on **MySQL Workbench**.  
+Each day builds on the previous one by adding new SQL skills.
+
+```plaintext
+MySQLQueriesFundamentals/
+├── Day01_Q01_Ilk_Islemler.sql          # Database and table creation fundamentals
+├── Day02/                              # Table structures, data insertion, and basic modifications
+├── Day03/                              # Filtering (WHERE) and patterns (LIKE, REGEXP)
+├── Day04/                              # Sorting, LIMIT, and aggregate functions
+├── Day05/                              # Grouping (GROUP BY) and constraints
+├── Day06/                              # Subqueries and advanced UPDATE operations
+└── Day07/                              # JOIN structures, UNION, and HAVING usage
+```
+
+---
