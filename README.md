@@ -171,3 +171,28 @@ MySQLQueriesFundamentals/
 ```
 
 ---
+
+## 📚 SQL Topics Covered
+ 
+ ### 1. 🧱 Basic Database Operations (Day 01)
+ **File:** `Day01_Q01_Ilk_Islemler.sql`
+ 
+ **Scope:**
+ - Creating databases (`CREATE DATABASE`)
+ - Creating tables (`CREATE TABLE`)
+ - Basic data types
+ - Primary Key (PK) concept
+ 
+ ---
+ 
+ ### 2. 🧩 Table Structures and Data Manipulation (Day 02)
+ **Folder:** `Day02`
+ 
+ **Scope:**
+ - Inserting data (`INSERT`)
+ - Updating data (`UPDATE`)
+ - Deleting data (`DELETE`)
+ - Basic table modification operations
+ 
+ ---
+ 
