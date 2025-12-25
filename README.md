@@ -196,3 +196,66 @@ MySQLQueriesFundamentals/
  
  ---
  
+### 3. 🔍 Filtering and Pattern Matching (Day 03)
+**Folder:** `Day03`
+
+**Scope:**
+- `WHERE` conditions
+- Logical operators (`AND`, `OR`)
+- Using `LIKE`
+- Advanced filtering with `REGEXP`
+
+---
+
+### 4. 📊 Sorting and Aggregate Functions (Day 04)
+**Folder:** `Day04`
+
+**Scope:**
+- `ORDER BY`
+- `LIMIT`
+- Aggregate functions:
+  - `MAX`
+  - `MIN`
+  - `AVG`
+  - `COUNT`
+
+---
+
+### 5. 🗂️ Grouping and Constraints (Day 05)
+**Folder:** `Day05`
+
+**Scope:**
+- Using `GROUP BY`
+- Preparation for `HAVING`
+- Constraints (`NOT NULL`, `UNIQUE`, `CHECK`)
+- Foreign Key (FK) concept
+
+---
+
+### 6. 🔄 Subqueries and Update Operations (Day 06)
+**Folder:** `Day06`
+
+**Scope:**
+- Subqueries
+- `IN`, `EXISTS`, `NOT EXISTS`
+- Using subqueries within `SELECT`
+- `UPDATE` operations with related tables
+- Parent / Child table safety
+
+---
+
+### 7. 🔗 JOIN, UNION, and Advanced Queries (Day 07)
+**Folder:** `Day07`
+
+**Scope:**
+- `INNER JOIN`
+- `LEFT JOIN`
+- `RIGHT JOIN`
+- `FULL JOIN`
+- `UNION` / `UNION ALL`
+- Group filtering with `HAVING`
+- `DELETE`, `TRUNCATE`
+- `ON DELETE CASCADE`
+- `SAVEPOINT` and `ROLLBACK`
+
+---
