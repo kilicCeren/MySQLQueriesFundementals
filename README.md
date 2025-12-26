@@ -259,3 +259,37 @@ MySQLQueriesFundamentals/
 - `SAVEPOINT` and `ROLLBACK`
 
 ---
+
+## 🛠️ How to Run
+ 
+ ### 1. Clone the Repository
+ 
+ ```bash
+ git clone https://github.com/YOUR_USERNAME/MySQLQueriesFundamentals.git
+ ```
+ 
+ ### 2. Open MySQL Workbench
+ 
+ - Launch the MySQL Workbench application
+ - Open the `.sql` file you want to run in Workbench
+ 
+ ### 3. Run the Queries
+ 
+ - Execute the queries **from top to bottom** in order
+ - Observe the results in the **Result Grid**
+ 
+ ---
+ 
+ ## ⚠️ Note
+ 
+ For JOIN and Subquery examples to work correctly, the related table `CREATE` and `INSERT` queries **must be executed beforehand**.
+ 
+ ---
+ 
+ ## 🎯 Project Goal
+ 
+ The goals of this project are:
+ 
+ - To learn SQL by **understanding the logic rather than memorization**
+ - To comprehend **real-world relational data scenarios**
+ - To build a solid SQL foundation at the **Junior → Mid** level
