@@ -116,7 +116,7 @@ MySQLQueriesFundamentals/
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/MySQLQueriesFundamentals.git
+git clone https://github.com/kilicCeren/MySQLQueriesFundamentals.git
 ```
 
 ### 2. MySQL Workbench'i Açın
@@ -265,7 +265,7 @@ MySQLQueriesFundamentals/
  ### 1. Clone the Repository
  
  ```bash
- git clone https://github.com/YOUR_USERNAME/MySQLQueriesFundamentals.git
+ git clone https://github.com/kilicCeren/MySQLQueriesFundamentals.git
  ```
  
  ### 2. Open MySQL Workbench
